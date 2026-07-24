@@ -202,5 +202,3 @@ Since `LANGCHAIN_TRACING_V2=true` is set in `.env`, every execution path is trac
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 ```
-
-```
