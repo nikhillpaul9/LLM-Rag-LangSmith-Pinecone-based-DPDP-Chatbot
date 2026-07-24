@@ -1,5 +1,5 @@
-```markdown
-# ⚖️ Digital Personal Data Protection (DPDP) RAG Chatbot
+
+# **⚖️ Digital Personal Data Protection (DPDP) RAG Chatbot**
 
 An enterprise-grade Retrieval-Augmented Generation (RAG) pipeline and interactive Streamlit chatbot designed for strict, zero-hallucination factual information extraction from the **Digital Personal Data Protection Act, 2023** and **DPDP Rules, 2025**.
 
@@ -200,5 +200,3 @@ Since `LANGCHAIN_TRACING_V2=true` is set in `.env`, every execution path is trac
 ## 🛡️ License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
